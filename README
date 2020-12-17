@@ -1,1 +1,2 @@
 The project contains only files of client which effects the behaviour or look of the punbb forum.
+One file - I think it's not needed is index.html is almost in every folder and I would like to remove it from the punbb file structure.
