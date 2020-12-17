@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Punbb 1.4.2 Client
 
-You can use the [editor on GitHub](https://github.com/ferda-mravenec/punbb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Project files contain client files like .js and .css for PunnBB forum.
+
+Use the [editor on GitHub](https://github.com/ferda-mravenec/punbb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
